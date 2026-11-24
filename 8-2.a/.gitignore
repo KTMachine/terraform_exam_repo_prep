@@ -43,4 +43,4 @@ terraform.rc
 terraform.tfvars.txt
 .terraform.lock.hcl
 
-.history
+.history/
