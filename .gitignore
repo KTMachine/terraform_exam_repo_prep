@@ -46,3 +46,5 @@ terraform.tfvars.txt
 *.tfvars.json
 
 .history/
+
+.terraform/, *.tfstate*
